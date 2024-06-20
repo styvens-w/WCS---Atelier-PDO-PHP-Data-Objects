@@ -1,0 +1,6 @@
+<?php
+define('HOST','your_value_host');
+define('DB','your_value_dbname');
+define('USER','your_value_user');
+define('PASS','your_value_pass');
+define('DSN',"mysql:host=".HOST.";dbname=".DB;);
